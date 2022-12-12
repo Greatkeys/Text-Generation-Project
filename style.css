@@ -1,0 +1,55 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f6f6f6;
+}
+.section-center{
+    text-align: center;
+}
+.title{
+    margin: 1.7rem;
+    letter-spacing: 1px;
+    font-size: 1.3rem;
+}
+.inputs{
+
+}
+.lorem-form{
+    margin-bottom: 2rem;
+    line-height: 2;
+}
+.lorem-form span{
+    font-size: 1.3rem;
+    text-transform: capitalize;
+    letter-spacing: 2px;
+}
+.lorem-form #number-input{
+    width: 2.5rem;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 10%;
+    margin-right: 20px;
+}
+.lorem-form #submit{
+    background: black;
+    color: white;
+    padding: 5px 10px;
+    cursor: pointer;
+    text-transform: capitalize;
+    font-size: 1rem;
+    border: none; 
+}
+.ipsum-text{
+    max-width: 70%;
+    text-align: center;
+    margin: auto;
+    line-height: 1.8;
+}
+.ipsum-text p{
+    margin-bottom: 2rem;
+
+}
